@@ -71,7 +71,7 @@ The channel data lives in `public/channels.json`. Download it and bring it to yo
 ```bash
 # Clone the repo
 git clone <repository-url>
-cd yt-niches
+cd youtube-faceless-niches
 
 # Install dependencies
 npm install
