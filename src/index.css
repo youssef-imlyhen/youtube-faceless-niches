@@ -1,0 +1,13 @@
+/* Minimal base CSS - most styles are in design-tokens.css and layout.css */
+
+input,
+select,
+button {
+  font-family: inherit;
+}
+
+/* Focus styles for accessibility */
+*:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}

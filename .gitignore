@@ -1,0 +1,76 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+firebase-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+kilo-code-settings.json
+yt-dlp
+
+# Large data files
+.env
+AGENTS.md
+all_images.txt
+art style.csv
+CHANNEL_ANALYSIS_NEW.md
+channels.md
+debug_filters.cjs
+dedupe-channels.cjs
+fetch_missing_videos.cjs
+FINAL_ART_STYLE_COMPLETE_REPORT.json
+fix_data.cjs
+GEMINI.md
+last_5_shorts.json
+merge-channels.cjs
+new_sample.json
+old_sample.json
+session-ses_3e04.md
+tweets_enriched.csv
+
+# IDE and cache directories
+.idx/
+.ruff_cache/
+
+# Analysis and data directories
+channel_analyses/
+data/
+video_analysis/
+vidgen_story/
+yt-channels-extracted/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp_*
+
