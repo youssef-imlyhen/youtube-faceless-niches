@@ -40,14 +40,14 @@ Each channel entry includes:
 ### Get the Data
 
 **JSON:**
-- Full channel data: [channels.json](https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels.json)
+- Full channel data: [channels.json](https://github.com/youssef-imlyhen/youtube-faceless-niches/blob/main/public/channels.json) (right-click -> Save As)
 
 **CSV (spreadsheet-friendly):**
 The CSV files contain both channel info and video data in a flat format - perfect for Excel or Google Sheets.
-- Part 1 (~72MB): [channels_part1.csv](https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels_part1.csv)
-- Part 2 (~70MB): [channels_part2.csv](https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels_part2.csv)
+- Part 1 (~72MB): [channels_part1.csv](https://github.com/youssef-imlyhen/youtube-faceless-niches/blob/main/public/channels_part1.csv) (right-click -> Save As)
+- Part 2 (~70MB): [channels_part2.csv](https://github.com/youssef-imlyhen/youtube-faceless-niches/blob/main/public/channels_part2.csv) (right-click -> Save As)
 
-> **Note:** CSV files are split into two parts because GitHub has a 100MB file limit. Download both and combine them, or use the JSON format instead.
+> **Note:** CSV files are split into two parts because GitHub has a 100MB file limit. Right-click the link and select "Save As" to download, or use the raw links above and press Ctrl+S to save.
 
 
 ### Why This Matters
