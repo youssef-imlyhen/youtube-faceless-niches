@@ -34,11 +34,10 @@ Each channel entry includes:
 
 ### Get the Data
 
-**JSON (recommended for developers):**
+**JSON (recommended):**
 - Channels: `https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels.json`
 
-**CSV (spreadsheet-friendly - for those who prefer Excel/Sheets):**
-- Channels + Videos: `https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels.csv`
+> **Note:** If you prefer CSV format, you can convert the JSON to CSV using online tools or by running `node -e "console.log(JSON.stringify(JSON.parse(require('fs').readFileSync(0, 'utf8'))))" < channels.json` in your terminal.
 
 
 ### Why This Matters
