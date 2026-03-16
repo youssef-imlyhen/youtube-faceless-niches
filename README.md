@@ -14,6 +14,33 @@ This is a dataset of **high-performing YouTube channels** hand-picked for facele
 - 🚀 **Emerging Faceless Channels** - New channels exploding right now
 - 📊 **Short & Long Form** - Both formats analyzed
 
+### Data Points Included
+
+Each channel entry includes:
+
+- **Channel Info** - Name, handle, subscriber count, description, profile picture
+- **Videos** - Latest videos with titles, views, duration, thumbnails, upload dates
+- **AI Enrichment**:
+  - Niche keywords & content formats
+  - Target audience (demographics, age, gender, interests, psychographics)
+  - Content characteristics (visual style, narration, complexity)
+  - Estimated RPM with rationale
+  - Opportunity analysis (saturation, growth potential, competition level)
+  - Quality indicators (production quality, consistency, engagement rate)
+  - Faceless suitability & implementation difficulty
+  - Monetization strategies & digital product ideas
+  - Key success factors (thumbnail style, hook structure, traffic sources)
+  - Untapped opportunities & spin-off ideas
+
+### Get the Data
+
+**JSON (recommended for developers):**
+- Channels: `https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels.json`
+
+**CSV (spreadsheet-friendly - for those who prefer Excel/Sheets):**
+- Channels + Videos: `https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels.csv`
+
+
 ### Why This Matters
 
 Most creators just guess and shoot randomly, hoping they go viral. 
@@ -70,7 +97,7 @@ The channel data lives in `public/channels.json`. Download it and bring it to yo
 
 ```bash
 # Clone the repo
-git clone <repository-url>
+git clone https://github.com/youssef-imlyhen/youtube-faceless-niches.git
 cd youtube-faceless-niches
 
 # Install dependencies
@@ -79,6 +106,14 @@ npm install
 # Run the app
 npm run dev
 ```
+
+### Deploy Online
+
+Deploy this app instantly with one click:
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/youssef-imlyhen/youtube-faceless-niches)
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/youssef-imlyhen/youtube-faceless-niches)
 
 ---
 ## Coming Soon
