@@ -14,11 +14,6 @@ This is a dataset of **high-performing YouTube channels** hand-picked for facele
 - 🚀 **Emerging Faceless Channels** - New channels exploding right now
 - 📊 **Short & Long Form** - Both formats analyzed
 
-![Channel Analysis](public/Screenshot%202026-03-16%20125741.png)
-![Niche Filtering](public/Screenshot%202026-03-16%20125809.png)
-![Data Export](public/Screenshot%202026-03-16%20125830.png)
-![Search & Discovery](public/Screenshot%202026-03-16%20125927.png)
-
 ### Data Points Included
 
 Each channel entry includes:
@@ -37,15 +32,20 @@ Each channel entry includes:
   - Key success factors (thumbnail style, hook structure, traffic sources)
   - Untapped opportunities & spin-off ideas
 
+![Channel Analysis](public/Screenshot%202026-03-16%20125741.png)
+![Niche Filtering](public/Screenshot%202026-03-16%20125809.png)
+![Data Export](public/Screenshot%202026-03-16%20125830.png)
+![Search & Discovery](public/Screenshot%202026-03-16%20125927.png)
+
 ### Get the Data
 
 **JSON:**
-- Full channel data: `https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels.json`
+- Full channel data: [channels.json](https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels.json)
 
 **CSV (spreadsheet-friendly):**
 The CSV files contain both channel info and video data in a flat format - perfect for Excel or Google Sheets.
-- Part 1 (~72MB): `https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels_part1.csv`
-- Part 2 (~70MB): `https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels_part2.csv`
+- Part 1 (~72MB): [channels_part1.csv](https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels_part1.csv)
+- Part 2 (~70MB): [channels_part2.csv](https://raw.githubusercontent.com/youssef-imlyhen/youtube-faceless-niches/main/public/channels_part2.csv)
 
 > **Note:** CSV files are split into two parts because GitHub has a 100MB file limit. Download both and combine them, or use the JSON format instead.
 
@@ -151,4 +151,4 @@ Due to the non-deterministic nature of AI models, some labeling and analysis in 
 
 ---
 
-*Built for faceless creators, by someone who gets it.*
+*Built for faceless creators, by a creator who loves YouTube.*
