@@ -151,4 +151,4 @@ Due to the non-deterministic nature of AI models, some labeling and analysis in 
 
 ---
 
-*Built for faceless creators, by a creator who loves YouTube.*
+*Built for creators, by creators.*
